@@ -1,0 +1,133 @@
+.PROJECTS{
+    background-image: url(../img/background.svg);
+    height: 884px;
+    
+
+    .text{
+        color: #E4CFCF;
+        font-family: 'Syncopate', sans-serif;
+
+        font-style: normal;
+        font-weight: 700;
+        font-size: 33px;
+        padding-top: 26.15px;
+        padding-bottom: 60.3px;
+        text-align: center;
+        text-shadow: 6px 2px 2px rgba(226, 13, 13, 0.54);
+    }
+
+
+
+
+
+    div{
+
+        p{
+            font-family: 'Roboto', sans-serif;
+            color: azure;
+        }
+        h5{
+            color: azure;
+        }
+    }
+
+    .button{
+        height: 64px;
+        width: 184px;
+        border-radius: 27px;
+        background: #d80808;
+        border: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .businesscards{  
+        
+        border-radius: 11px;
+        
+        margin-bottom: 95.47px;
+       
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+        .photo{
+            background: linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+            border: 2px solid rgba(29, 28, 28, 0.33);
+           border-radius: 11px;
+
+            border-radius: 11px;
+            width: 311px;
+            height: 191.95px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img{
+            width: 269px;
+            height: 155px;
+            border: 2px solid linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+
+            box-sizing: content-box;
+        }
+    }
+
+    .designwebsite{
+        
+        border-radius: 11px;
+       
+        margin-bottom: 95.47px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+       
+        .img{
+            background: linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+             border: 2px solid rgba(29, 28, 28, 0.33);
+            border-radius: 11px;
+            width: 312px;
+            height: 188px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        img{
+            width: 260px;
+            height: 150px;
+            border: 2px solid linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+
+            box-sizing: content-box;
+        }
+        
+
+
+    }
+
+    .text2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 16.41px;
+    color: #FFFFFF;
+    padding-right: 203px;
+    }
+
+
+    .text3{
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        font-weight: 900;
+        line-height: 16.41px;
+        color: #FFFFFF;
+        padding-right: 203px;
+    }
+}

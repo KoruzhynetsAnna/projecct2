@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Syncopate:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700=swap");
+@import url("https://fonts.googleapis.com/css2?family=Syncopate:wght@700&display=swap");
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.PROJECTS {
+  background-image: url(../img/background.svg);
+  height: 884px;
+}
+.PROJECTS .text {
+  color: #E4CFCF;
+  font-family: "Syncopate", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 33px;
+  padding-top: 26.15px;
+  padding-bottom: 60.3px;
+  text-align: center;
+  text-shadow: 6px 2px 2px rgba(226, 13, 13, 0.54);
+}
+.PROJECTS div p {
+  font-family: "Roboto", sans-serif;
+  color: azure;
+}
+.PROJECTS div h5 {
+  color: azure;
+}
+.PROJECTS .button {
+  height: 64px;
+  width: 184px;
+  border-radius: 27px;
+  background: #d80808;
+  border: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Roboto", sans-serif;
+}
+.PROJECTS .businesscards {
+  border-radius: 11px;
+  margin-bottom: 95.47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.PROJECTS .businesscards .photo {
+  background: linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+  border: 2px solid rgba(29, 28, 28, 0.33);
+  border-radius: 11px;
+  border-radius: 11px;
+  width: 311px;
+  height: 191.95px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.PROJECTS .businesscards img {
+  width: 269px;
+  height: 155px;
+  border: 2px solid linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+  box-sizing: content-box;
+}
+.PROJECTS .designwebsite {
+  border-radius: 11px;
+  margin-bottom: 95.47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.PROJECTS .designwebsite .img {
+  background: linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+  border: 2px solid rgba(29, 28, 28, 0.33);
+  border-radius: 11px;
+  width: 312px;
+  height: 188px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.PROJECTS .designwebsite img {
+  width: 260px;
+  height: 150px;
+  border: 2px solid linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+  box-sizing: content-box;
+}
+.PROJECTS .text2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 16.41px;
+  color: #FFFFFF;
+  padding-right: 203px;
+}
+.PROJECTS .text3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 16.41px;
+  color: #FFFFFF;
+  padding-right: 203px;
+}
