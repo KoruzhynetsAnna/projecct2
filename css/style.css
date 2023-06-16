@@ -92,6 +92,31 @@ table {
   margin-right: auto;
   font-family: "Roboto", sans-serif;
 }
+.PROJECTS .photo {
+  background: linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+  border: 2px solid rgba(29, 28, 28, 0.33);
+  border-radius: 11px;
+  border-radius: 11px;
+  width: 311px;
+  height: 191.95px;
+}
+.PROJECTS .photo .businesscards {
+  border-radius: 11px;
+  margin-bottom: 95.47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.PROJECTS .photo img {
+  width: 269px;
+  height: 155px;
+  border: 2px solid linear-gradient(180deg, #E30707 0%, #6A1212 73.1%);
+  box-sizing: content-box;
+}
 .PROJECTS .businesscards {
   border-radius: 11px;
   margin-bottom: 95.47px;
